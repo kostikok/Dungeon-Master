@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\DungeonMaster\bin\Debug\net6.0\DungeonMaster.exe
+C:\Users\user\Desktop\DungeonMaster\bin\Debug\net6.0\DungeonMaster.deps.json
+C:\Users\user\Desktop\DungeonMaster\bin\Debug\net6.0\DungeonMaster.runtimeconfig.json
+C:\Users\user\Desktop\DungeonMaster\bin\Debug\net6.0\DungeonMaster.dll
+C:\Users\user\Desktop\DungeonMaster\bin\Debug\net6.0\DungeonMaster.pdb
+C:\Users\user\Desktop\DungeonMaster\obj\Debug\net6.0\DungeonMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DungeonMaster\obj\Debug\net6.0\DungeonMaster.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DungeonMaster\obj\Debug\net6.0\DungeonMaster.AssemblyInfo.cs
+C:\Users\user\Desktop\DungeonMaster\obj\Debug\net6.0\DungeonMaster.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DungeonMaster\obj\Debug\net6.0\DungeonMaster.dll
+C:\Users\user\Desktop\DungeonMaster\obj\Debug\net6.0\refint\DungeonMaster.dll
+C:\Users\user\Desktop\DungeonMaster\obj\Debug\net6.0\DungeonMaster.pdb
+C:\Users\user\Desktop\DungeonMaster\obj\Debug\net6.0\DungeonMaster.genruntimeconfig.cache
+C:\Users\user\Desktop\DungeonMaster\obj\Debug\net6.0\ref\DungeonMaster.dll
